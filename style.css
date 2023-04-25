@@ -5,24 +5,20 @@ html {
 
 body {
   font-family: Arial, sans-serif;
-  color: #333;
+  background-image: linear-gradient(to bottom right, #333, #DBF3FA);
 }
 
 /* Style the header */
 header {
-  background-image: linear-gradient(#0080ff,#fff); /* Blue */
+  background-image: linear-gradient(#0080ff,rgba(255,0,0,0)); /* Blue */
   color: #fff;
-  padding: 20px;
+  padding: 40px;
 }
 
 /* Style the logo */
-header h2 {
+header h1 {
   margin: 0;
-  color= #FF6B5E
   font-size: 2.5em;
-}
-header h2 {
-  color= #FF6B5E;
 }
 /* Style the navigation menu */
 header nav {
