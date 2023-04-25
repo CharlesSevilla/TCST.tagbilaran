@@ -16,11 +16,14 @@ header {
 }
 
 /* Style the logo */
-header h1 {
+header h2 {
   margin: 0;
+  color= #FF6B5E
   font-size: 2.5em;
 }
-
+header h2 {
+  color= #FF6B5E;
+}
 /* Style the navigation menu */
 header nav {
   margin-top: 10px;
